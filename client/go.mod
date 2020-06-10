@@ -1,0 +1,3 @@
+module TCP_UPGRADE_TLS_CLIENT
+
+go 1.14
